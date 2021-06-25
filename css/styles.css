@@ -165,7 +165,7 @@ sup {
 
 a {
   color: #0070C0;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: transparent;
 }
 a:hover {
@@ -10054,6 +10054,7 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+	text-decoration: none;
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
